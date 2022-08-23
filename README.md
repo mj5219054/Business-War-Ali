@@ -38,7 +38,7 @@
 
 * ![兵力原则](https://github.com/mj5219054/Business-War-Ali/blob/main/Documentation/README1%20.md)
 
-* ![心智原则](https://github.com/mj5219054/Business-War-Ali/blob/main/Documentation/README1%20.md)
+* ![心智原则](https://github.com/mj5219054/Business-War-Ali/blob/main/Documentation/README2%20.md)
 
 * ![敌人的敌人就是朋友](https://github.com/mj5219054/Business-War-Ali/blob/main/Documentation/README3%20.md)
 
