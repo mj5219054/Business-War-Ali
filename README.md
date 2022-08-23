@@ -46,7 +46,7 @@
 
 # 舆论力量
 
-* ![媒体是一场战争](https://github.com/mj5219054/Business-War-Ali/blob/main/exports/README%20.md）
+* ![媒体是一场战争](https://github.com/mj5219054/Business-War-Ali/blob/main/exports/README%20.md)
 
 
 
