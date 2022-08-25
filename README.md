@@ -75,6 +75,8 @@
 
 # 收购计划
 
+* ![出奇招治人](https://github.com/mj5219054/Business-War-Ali/blob/main/tools/md-to-pdf%20../mds/1.%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF.md)
+
 
 
 
