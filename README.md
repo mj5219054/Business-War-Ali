@@ -56,8 +56,8 @@
 
 # 股市狙击
 
-
-* ![狙击阻击战术](https://github.com/mj5219054/Business-War-Ali/blob/main/Documentation/README4%20.md)
+ * ![狙击幕布](https://github.com/mj5219054/Business-War-Ali/blob/main/picture/180a161a8161aec13fe1bb37.png!raw.jpg)
+ * ![狙击阻击战术](https://github.com/mj5219054/Business-War-Ali/blob/main/Documentation/README4%20.md)
 
  * ![狙击战略](https://github.com/mj5219054/Business-War-Ali/blob/main/Documentation/README5%20.md)
 
@@ -78,6 +78,8 @@
 # 收购计划
 
 * ![出奇招治人](https://github.com/mj5219054/Business-War-Ali/blob/main/tools/md-to-pdf%20../mds/1.%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF.md)
+
+* ![人员洽谈计划](https://github.com/mj5219054/Business-War-Ali/blob/main/tools/md-to-pdf%20../mds/1.%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF.md)
 
 
 
