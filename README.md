@@ -93,6 +93,7 @@
 
 * ![人员洽谈计划](https://github.com/mj5219054/Business-War-Ali/blob/main/tools/md-to-pdf%20../mds/README1%20.md)
 
+* ![大纲和人员安排](https://github.com/mj5219054/Business-War-Ali/blob/main/tools/md-to-pdf%20../mds/README2%20.md)
 
 
 
