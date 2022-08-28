@@ -95,7 +95,7 @@
 
 * ![大纲和人员安排](https://github.com/mj5219054/Business-War-Ali/blob/main/tools/md-to-pdf%20../mds/README2%20.md)
 
-* ![被收购后人员安排](https://github.com/mj5219054/Business-War-Ali/blob/main/tools/md-to-pdf%20../mds/README2%20.md)
+* ![被收购后人员安排](https://github.com/mj5219054/Business-War-Ali/blob/main/tools/md-to-pdf%20../mds/README4%20.md)
 
 * ![风险](https://github.com/mj5219054/Business-War-Ali/blob/main/tools/md-to-pdf%20../mds/README%203.md)
 
