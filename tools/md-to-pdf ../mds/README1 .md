@@ -182,6 +182,42 @@ A股市场中阿里巴巴参股的公司：
 
 ![图片](https://user-images.githubusercontent.com/79394963/187066256-1cd4501d-3b26-4c73-98f1-76c35b496e6c.png)
 
+ 	张勇 	董事会主席 	2019-09-01 	-- 	1972 	男
+	蔡崇信 	执行副主席 	2013-05-01 	-- 	1964 	男
+	Timothy A. STEINERT 	公司秘书 	2007-07-01 	-- 	-- 	男
+	Wan Ling MARTELLO 	独立董事 	2015-09-01 	-- 	-- 	女
+	杨致远 	独立董事 	2014-09-01 	-- 	1968 	男
+	郭德明 	独立董事 	2014-09-01 	-- 	-- 	男
+	董建华 	独立董事 	2014-09-01 	-- 	-- 	男
+	单伟建 	独立董事 	2022-03-31 	-- 	1953 	男
+	利蕴莲 	独立董事 	2022-08-04 	-- 	1953 	女
+	吴港平 	独立董事 	2022-08-04 	-- 	1957 	男
+
+
+
+管理层成员
+   	
+
+
+	张勇 	首席执行官 	2015-05-01 	-- 	1972 	男
+	徐宏 	首席财务官 	2022-04-01 	-- 	1973 	男
+	董本洪 	首席市场官 	2016-01-01 	-- 	-- 	男
+	郑俊芳 	首席风险官 	2017-12-01 	-- 	-- 	女
+	程立 	首席技术官 	2019-12-01 	-- 	-- 	男
+	童文红 	首席人才官 	2017-01-01 	-- 	-- 	女
+	郑俊芳 	首席平台治理官 	2015-12-01 	-- 	-- 	女
+	俞思瑛 	首席法务官 	2020-04-01 	-- 	-- 	女
+	郑俊芳 	首席客户服务官 	2022-03-31 	-- 	-- 	女
+
+
+
+
+
+
+
+
+
+
 
 # 阿里股权结构
 
@@ -232,7 +268,12 @@ A股市场中阿里巴巴参股的公司：
 该基金第一大重仓股腾讯，以及第二大重仓股阿里巴巴也均为互联网股票，腾讯控股3月获该基金增持4.26%股份，阿里巴巴获增持0.96%持仓。
 
 * ![图片](https://user-images.githubusercontent.com/79394963/187066640-62d1f197-f008-42ad-9657-05c46a077051.png)
+*  阿里巴巴发行在外的稀释性潜在普通股平均股数（Shares Outstanding (Diluted Average)）的相关内容及计算方法如下：
+已发行股票是指投资者授权，发行和购买并持有的股票。它们具有投票权，代表持有股份的人的公司所有权。已发行股票应与库存股份区分开，库存股份是公司本身持有的股份，既不分配股利，又不附投票权。
 
+* 流通股可以按基本或完全摊薄计算。完全稀释后的流通在外股票数量包括稀释的证券，例如期权，认股权证或可转换股票。请注意：价值大师（GuruFocus）所谓的 期末总股本 是指某确切时间点的股票数量，通常用于计算与资产负债表相关的项目，例如 每股账面价值 等。而发行在外的稀释性潜在普通股平均股数和 发行在外的普通股平均股数 是一段时间（一年、一季度）内的加权平均股数，通常用于计算利润表或现金流量表的相关项目，例如 基本每股收益 、 稀释每股收益 等。截至2022年6月，阿里巴巴过去一季度 的发行在外的稀释性潜在普通股平均股数为 2673.00。 
+
+* ![图片](https://user-images.githubusercontent.com/79394963/187089649-3f490745-ea1c-451c-87d3-84f323829d58.png)
 
 # 信息收集
 
@@ -259,12 +300,28 @@ A股市场中阿里巴巴参股的公司：
 * 软银集团的投资遭遇重大挫折，其中包括投资超过100亿美元给美国共享办公龙头WeWork，但后者上市计划流产，给软银带来巨大损失。5月18日，软银发布的年度财报显示，
 * 2022财年年报，披露了最新合夥人名单。年报显示，阿里巴巴合夥人目前共有29名成员，除此前宣布退休的部分成员外，来自蚂蚁集团管理层的相关成员包括井贤栋、倪行军、曾松柏、彭翼捷等也不再担任阿里巴巴合夥人。内媒从知情人士处获悉，这是蚂蚁集团持续完善公司治理的又一举措，旨在进一步提升公司治理的透明度和有效性，强化与主要股东阿里巴巴的隔离。另据阿里年报披露，阿里巴巴合夥近期修订了《合夥协议》，按照最新协议，合夥人应由阿里巴巴集团人士担任，因此，从2022年5月31日起，阿里巴巴集团的关联方人士不再担任合夥人。
 
+* 软银集团公布了创纪录的亏损。软银集团2022财年第一季度财报（自然月4-6月）文件显示，该集团录得约3.16 万亿日元（约合245亿美元）净亏损，打破了上季度刚刚创下的最大单季亏损纪录。而去年同期，软银集团录得净利润7620亿日元。软银集团认为巨幅亏损的主要原因为投资损失。集团旗下软银愿景基金第一季度亏损2.33万亿日元，上年同期收益为4519.3亿日元。其中导致其亏损较多的个股包括Coupang公司、商汤科技、DoorDash，贝壳找房、Wework等。随后，软银集团宣布，董事会同意结算至多2.42亿份阿里巴巴ADR（“美国存托股份”）的远期合约，预计交易总收益达4.6万亿日元（约合340亿美元），持股比例降至14.6%。后藤芳光还驳斥了软银持续录得巨额亏损导致与贷款方关系紧张的说法。软银原本是以远期合约方式来出售阿里巴巴的股份，但最后选择提早结算，这意味着软银在阿里巴巴的持股比例将从6月底的23.7%降至9月结算完成时的14.6%。后藤芳光称，选择提早结算是为了消除集团未来需要动用额外现金来回购股份的担忧。
+
+* 机构开始抄底阿里巴巴
+
+8月15日，高瓴旗下基金HHLR Advisors公布了今年二季度末的美股持仓情况。其中，阿里巴巴为HHLR第八大重仓股。HHLR Advisors在2021年四季度曾经清仓了阿里巴巴，到了2022年二季度则再度持仓，抄底购入189.1万股，市值2.15亿美元，是其持有的第八大个股。
+此外，一份基于对15家亚洲资产管理公司13F文件的分析得出的结论：专注于亚洲市场的基金持有的阿里巴巴股票数量增加了311%。这些资产管理公司在季末持有至少2亿美元的资产。
+这份统计显示，截至6月底，电子商务、快递、太阳能公司和电动汽车制造商构成了这些基金按市值计算最大的20个持股组合。其中，京东持仓市值位居榜首，不过阿里巴巴的总仓位(以股票数量衡量)较上一季度的增幅最大。不过，仍有一些基金对电子商务公司的前景持怀疑态度，导致对阿里巴巴的总投资减少。軟銀曾於2020年出售410億美元資產，以支持大規模回購及償清巨額負債，重建投資者信心。不過，現時有部份投資者仍認為，軟銀對於出售阿里股份的解釋並不充分，令人質疑這是否為了解決迫在眉睫的財務危機。在阿里股价较峰值下跌 71% 之际，软银正在减少对其最大资产的敞口。这与我们多年来习惯听到的超级积极的信息大不相同。”研究公司 Redex Research 分析师柯克・布德利 (Kirk Boodry) 表示。
+软银出售阿里股份的交易是通过预付远期合约进行的。现在，软银越来越多地利用这种衍生品来筹集可立即支付的现金。直到最近，软银还向投资者强调，这些合约不等于出售，因为它保留了以后回购股票的选择权。但是软银决定提前结算这些合约，放弃了保留这些股份的选择权，意味着软银在阿里的持股比例将从 6 月底的 23.7% 降至 14.6%。
+在软银连续两个季度遭遇巨额亏损后，多名投资者和分析师表达了担忧，其中之一就是软银可能违反其与贷款方之间的一项金融契约。契约规定，软银不得连续两年报告亏损。在截至 2022 年 3 月的一年里，软银净亏损 1.7 万亿日元。
+
+
 
 # 舆论方面
 
 安全研究人員表示，用於管理數據庫的儀表板已在沒有密碼的情況下打開了一年多，這使得竊取和刪除其內容變得容易。根據對數據庫的掃描，研究人員得出結論，該數據庫托管在阿里巴巴的雲平台上。
 阿里巴巴在美國的代表沒有立即回應置評請求。報道稱，數據庫還包含幾十億的報警案件記錄，“包括：姓名、地址、出生地、公民身份證號碼、手機號碼、所有犯罪案件細節。”該名黑客提出以10個比特幣的價格（約20萬美元），出售總共超過23TB的數據。
 
+選輪原因：中美就上市公司審計問題有突破，在美有上市的阿里，股價在兩日內已升逾1成，如看好阿里有機會再次擠身紅底股，可參考輕微價外Call。
+
+上周收報（元）：0.078
+
+行使價（元）：105.08
 
 
 
@@ -312,3 +369,22 @@ A股市场中阿里巴巴参股的公司：
 * 5、高管和董事局合计持股9.5%;
 
 
+# 持股修正
+
+purposes, Jack Yun Ma, are parties to an Amended and Restated Voting Agreement, dated as of December 17, 2021 (the “Amended Voting Agreement”). The Amended Voting Agreement amended and restated a Voting Agreement, dated as of September 18, 2014 (the “Prior Voting Agreement”), by and among the Issuer, Jack Yun Ma, Joseph Tsai, Altaba Inc. (formerly Yahoo! Inc.), SoftBank Group Corp. (formerly SoftBank Corp.), and each such shareholder’s Subordinate Shareholders (as defined therein). Under the Prior Voting Agreement, among other things, Jack Yun Ma and Joseph Tsai shared the right to vote by proxy certain Ordinary Shares held by SoftBank Group Corp. on certain matters and they and their Subordinate Shareholders (as defined in the Prior Voting Agreement) had an obligation to vote in favor of SoftBank Group Corp.’s director nominee as well as the Alibaba Partnership Designees (as defined in the Prior Voting Agreement). The Amended Voting Agreement amended and restated the Prior Voting Agreement in order to, among other things, remove Jack Yun Ma and his Subordinate Shareholders as parties thereto and deleted certain provisions of the Prior Voting Agreement that were no longer relevant. Altaba Inc. announced its dissolution effective as of October 4, 2019.
+
+Pursuant to the Amended Voting Agreement, the parties thereto agreed, among other things, that:
+
+Joseph Tsai will vote the Ordinary Shares he owns and any other Ordinary Shares over which he holds voting rights in favor of the election of the SoftBank Group Corp. director nominee for so long as SoftBank Group Corp. and certain of its affiliates own 15% or more of the Issuer’s outstanding Ordinary Shares.
+
+				
+CUSIP No. 01609W102 	   	13G 	   	Page 6 of 7 pages
+
+ 
+
+SoftBank Group Corp.’s proxy obligations described in clause (ii) in the second bullet above shall (1) not apply in respect of any proposal submitted to the Issuer’s shareholders that may result in an issuance of Ordinary Shares or other equity interests of the Issuer, including securities exchangeable or convertible into Ordinary Shares, that would increase the amount of the Issuer’s then-outstanding Ordinary Shares by 3% or more and (2) terminate when Jack Yun Ma owns less than 1% of the Issuer’s issued and outstanding Ordinary Shares on a fully diluted basis or if the Issuer materially breaches the Amended Voting Agreement.
+
+The Reporting Person may be deemed to be members of a “group” under Section 13(d) of the Act with respect to the Ordinary Shares beneficially owned by the Reporting Person and the other parties to the Voting Agreement. Assuming such a group is deemed to exist, the members of the group are as follows: (1) SoftBank Group Corp. and certain direct or indirect subsidiaries thereof; and (2) Joseph C. Tsai, the Joe and Clara Tsai Foundation Limited, Parufam Limited, PMH Holding Limited, Clara Wu Ming-Hua and APN Ltd.
+
+ 
+Date: February 14, 2022
