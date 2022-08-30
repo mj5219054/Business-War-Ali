@@ -1,4 +1,7 @@
 # Business-War-Ali
+
+# ![中文]( https://github.com/mj5219054/Business-War-Ali/blob/main/README.md)
+# ![English ](https://github.com/mj5219054/Business-War-Ali/blob/main/Documentation/README1%20.md)
   * 针对阿里旗下产品行动方案构思
    
   阿里巴巴服务范围包括B2B贸易、网上零售、购物搜索引擎、第三方支付和云计算服务。
