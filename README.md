@@ -14,7 +14,16 @@
 
  * 合作媒体：主要是非阿里直系的合作媒体资源。淘内卖家可以通过阿里的Uni Desk（类DSP）对合作媒体流量进行广告投放。
 
- 
+# 历史
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188319109-796ba62d-01c0-49b3-b4a4-d8858ba31d5a.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188319127-1de22478-25f7-4879-8b51-7c765a847bc6.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188319161-ab95f316-53af-43ef-9011-9da2eb9f4378.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188319184-8e32eb07-d16b-4923-9d8f-bedb9e7cc155.png)
+
 # 宣言大纲
 
   经济推动金钱的威力，对商人的战斗力过于自信，结果当战火烧到了的身上后，“贪婪不好听，却是好东西。”在战场上与敌人厮杀争夺的是土地、财富与权力，在商场上与对手竞争抢夺的是顾客心智、销量和利润，两者争夺的标的或许有所差异，但在这两种"战斗"中使用的策略却有共同之处。企业是统帅的灵魂。战法是斗争的开始。
