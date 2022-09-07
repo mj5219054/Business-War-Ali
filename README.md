@@ -81,7 +81,8 @@
 -快手，329 亿元
 
 互联网、科技上市公司到今年上半年末，资产负债表上至少躺着 22544 亿元现金或者等价资产（比如定期、活期存款、大额存单、债券或者股票投资等），较一季度末多 2380 亿元。
-![图片](https://user-images.githubusercontent.com/79394963/188776374-9e214bed-52c2-49a6-8e4a-6c52b34c90cf.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188776374-9e214bed-52c2-49a6-8e4a-6c52b34c90cf.png)
 
 # 舆论力量
 
